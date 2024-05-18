@@ -1,6 +1,8 @@
 # when-i-die-issues
 [Issues] When I die
 
+![hackathonSSST2024 drawio](https://github.com/edin-fazlic/when-i-die-issues/assets/102242061/7d5f3f27-4f99-48e2-a68b-912b6f3557b9)
+
 Auth
   - Login / registration
 
@@ -62,6 +64,7 @@ TP edit
    
 They trust me
   - Data
+
     - List of users
       - name, email, id, (their settings, if they set with confirmation)
   - Actions
